@@ -1,0 +1,86 @@
+[
+  {
+    "key": "berlin",
+    "latitude": 52.5015,
+    "longitude": 13.4018,
+    "name": "Berlin"
+  },
+  {
+    "key": "koeln",
+    "latitude": 50.9457,
+    "longitude": 6.9732,
+    "name": "Köln"
+  },
+  {
+    "key": "hamburg",
+    "latitude": 53.5477,
+    "longitude": 10.0156,
+    "name": "Hamburg"
+  },
+  {
+    "key": "muenchen",
+    "latitude": 48.1532,
+    "longitude": 11.5472,
+    "name": "München"
+  },
+  {
+    "key": "frankfurt-am-main",
+    "latitude": 50.1180,
+    "longitude": 8.6442,
+    "name": "Frankfurt"
+  },
+  {
+    "key": "stuttgart",
+    "latitude": 48.7745,
+    "longitude": 9.1721,
+    "name": "Stuttgart"
+  },
+  {
+    "key": "duesseldorf",
+    "latitude": 51.2355,
+    "longitude": 6.8102,
+    "name": "Düsseldorf"
+  },
+  {
+    "key": "dortmund",
+    "latitude": 51.5161,
+    "longitude": 7.4749,
+    "name": "Dortmund"
+  },
+  {
+    "key": "essen-ruhr",
+    "latitude": 51.4338,
+    "longitude": 7.0172,
+    "name": "Essen"
+  },
+  {
+    "key": "stadt-bremen",
+    "latitude": 53.1189,
+    "longitude": 8.7808,
+    "name": "Bremen"
+  },
+  {
+    "key": "dresden",
+    "latitude": 51.0664,
+    "longitude": 13.7835,
+    "name": "Dresden"
+  },
+  {
+    "key": "leipzig",
+    "latitude": 51.3422,
+    "longitude": 12.3748,
+    "name": "Leipzig"
+  },
+  {
+    "key": "hannover",
+    "latitude": 52.3795,
+    "longitude": 9.7696,
+    "name": "Hannover"
+  },
+  {
+    "key": "nuernberg",
+    "latitude": 49.4362,
+    "longitude": 11.0827,
+    "name": "Nürnberg"
+  }
+]
